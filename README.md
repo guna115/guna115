@@ -40,20 +40,6 @@
 ![LLMs](https://img.shields.io/badge/LLMs-4285F4?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-6C63FF?style=for-the-badge)
 
-### Frameworks & Libraries
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
-
-### Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
 ---
 
 > *"Building intelligent solutions through code and continuous learning."*
